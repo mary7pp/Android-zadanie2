@@ -1,0 +1,2 @@
+rootProject.name='ZadDom2'
+include ':app'
